@@ -1,0 +1,148 @@
+﻿أفضل الممارسات و قصص النجاح,home-ui.SOCIAL_RESPONSIBLITY_HIGHLIGHTS,home-ui.SOCIAL_RESPONSIBLITY_HIGHLIGHTS_2
+الفرص التنموية,home-ui.INITIATIVES_PAGE,home-ui.ALL_REGIONS,home-ui.DEVELOPMENT_OPPORTUNITIES
+الخريطة التنموية,home-ui.DEV_MAP,home-ui.TTL_MAP_VIEW_INITIATIVES
+عسير,home-ui.DIFFICULT,home-ui.ASIR
+تسجيل الدخول,home-ui.LOGIN_BTN,home-ui.sign_in,company-ui.sign_in
+المدينة,home-ui.medina,home-ui.city
+البحث فى الفرص,home-ui.INITAITVE_SEARCH_MAP,home-ui.SEARCH_IN_INITIATIVES
+الخبراء,home-ui.EXPERTS,home-ui.SME_TITLE
+مفعل,company-ui.enabled,company-ui.enabled
+معطل,company-ui.disabled,company-ui.disabled
+اضافة المستخدم,company-ui.add_user,company-ui.add_user
+إلغاء,company-ui.Cancellation,company-ui.cancel
+اسم الجهة,company-ui.Entity_name,company-ui.non-profit_name,company-ui.Entity_name
+بيانات الجهة,company-ui.Entity_data,company-ui.non-profit_data,company-ui.Entity_data
+ايقاف التفعيل,company-ui.Deactivate,company-ui.Deactivate
+رجوع,company-ui.back,company-ui.back
+صورة الرخصة,company-ui.license_photo,company-ui.license_Photo,company-ui.license_photo
+اسم المستخدم للجهة,company-ui.Username_entity,company-ui.delegate_userName,company-ui.Username_entity
+المجال الفرعي,company-ui.subdomain,company-ui.non-profit_secondry_filed
+تعديل,company-ui.Modify,company-ui.Modify
+حفط التعديلات,company-ui.Save_adjustments,company-ui.Save_adjustments
+اضافة مستخدم جديد,company-ui.Add_a_new_user,company-ui.Add_a_new_user
+دور المستخدم,company-ui.User_role,company-ui.User_role
+دور موظف,company-ui.Employee_role,company-ui.Employee_role
+صلاحيات المستخدم,company-ui.User_Permissions,company-ui.User_Permissions
+اسم المستخدم,company-ui.user_name,company-ui.user_name
+المسمى الوظيفي,company-ui.Job_title,company-ui.Job_title
+الإدارة,company-ui.Administration,company-ui.Administration
+رقم الجوال,company-ui.Mobile_number,company-ui.Mobile_number
+البريد الالكتروني الرسمي,company-ui.official_email,company-ui.official_email
+البريد الالكتروني ,company-ui.email,company-ui.email
+ايقاف تفعيل المستخدم,company-ui.Deactivate_user,company-ui.Deactivate_user
+هل تريد ايقاف تفعيل حساب المستخدم؟,company-ui.want_deactivate_account,company-ui.want_deactivate_account
+موظف وزارة الموارد البشرية والتنمية الإجتماعية | مراجع,company-ui.Employee__Ministry_of_Human,company-ui.Employee__Ministry_of_Human
+تم ايقاف تفعيل المستخدم للمستخدم بنجاح,company-ui.User_activation_has_been_successfully,company-ui.User_activation_has_been_successfully
+تعديل بيانات المستخدم,company-ui.Edit_user_Profile,company-ui.Edit_user_Profile
+حالة الحساب,company-ui.Account_Status,company-ui.Account_Status
+دور موظف وزارة الموارد البشرية والتنمية الإجتماعية,company-ui.role_employee_Ministry_of_Human_Resources,company-ui.role_employee_Ministry_of_Human_Resources
+الإسم,company-ui.name,company-ui.name
+تعيين كلمة مرور جديدة,company-ui.Set_new_password,company-ui.Set_new_password
+سيقوم النظام بانشاء كلمة مرور وارسلها للمستخدم عبر البريد الإلكتروني,company-ui.system_will_generate_a_password_and_send_via_email,company-ui.system_will_generate_a_password_and_send_via_email
+تم ارسال كلمة المرور الجديدة للمستخدم بنجاح,company-ui.new_password_sent_successfully,company-ui.new_password_sent_successfully
+هل تريد تعيين كلمة مرور جديدة؟,company-ui.Do_you_want_new_password,company-ui.Do_you_want_new_password
+نوع الجهة,company-ui.Entity_type,company-ui.Entity_type
+عرض بيانات المستخدم,company-ui.View_user_data,company-ui.View_user_data
+بيانات المستخدم,company-ui.user_data,company-ui.user_data
+إدارة المستخدمين,company-ui.User_management,company-ui.User_management
+بحث في قائمة المستخدمين,company-ui.Search_user_list,company-ui.Search_user_list
+فرز بواسطة,company-ui.filter_by,company-ui.filter_by
+ تصدير لملف EXCEL,company-ui.Export_to_EXCEL,company-ui.Export_to_EXCEL
+كل المستخدمين,company-ui.all_users,company-ui.all_users
+وزارة الموارد البشرية,company-ui.Ministry_Human_Resources,company-ui.Ministry_Human_Resources
+قطاع عام,company-ui.public_sector,company-ui.public_sector
+شركات,company-ui.comp,company-ui.comp
+انشاء حساب جديد للشركات,company-ui.Create_new_corporate_account,company-ui.Create_new_corporate_account
+بيانات الشركة,company-ui.Company_Data,company-ui.Company_Data
+رقم مكتب العمل,company-ui.Business_office_number,company-ui.Business_office_number
+الرقم التسلسلي,company-ui.Serial_Number,company-ui.Serial_Number
+السجل التجاري,company-ui.Commercial_Register,company-ui.Commercial_Register
+(اختياري),company-ui.Optional,company-ui.Optional
+البحث في منصة قوى,company-ui.Search_strong_platform,company-ui.Search_strong_platform
+تحقق من بيانات الشركة,company-ui.Check_company_information,company-ui.Check_company_information
+بيانات مقدم الطلب,company-ui.Applicant_data,company-ui.Applicant_data
+اسم الشركة,company-ui.Companys_name,company-ui.Companys_name,company-ui.Ngos_name
+النشاط الاقتصادي,company-ui.economic_activity,company-ui.economic_activity
+اسم مقدم الطلب,company-ui.applicants_name,company-ui.applicants_name
+الوظيفة,company-ui.Job,company-ui.Job
+البريد الإلكتروني,company-ui.Email,company-ui.Email
+إذا كان لديك حساب,company-ui.If_you_have_account,company-ui.If_you_have_account
+يمكنك تسجيل الدخول,company-ui.You_can_log_in,company-ui.You_can_log_in
+الإتصالات,company-ui.Communication,company-ui.Communication
+انشاء حساب جديد للجهات غير الربحية,company-ui.Create_new_account_for_non_profits,company-ui.Create_new_account_for_non_profits
+العنوان الرسمي للجهة,company-ui.official_address_entity,company-ui.official_address_entity
+اهداف الجمعيه,company-ui.organizations_goals,company-ui.organizations_goals
+المجال الرئيسي للجمعية,company-ui.main_field_association,company-ui.main_field_association
+الفئات المستهدفة,company-ui.Target_groups,company-ui.Target_groups
+رقم الرخصة,company-ui.license_number,company-ui.license_number
+استمرار,company-ui.continuation,company-ui.continuation
+بيانات مقدم الطلب (المفوض),company-ui.Authorized_applicant_information,company-ui.Authorized_applicant_information
+ اسم مقدم الطلب (المفوض) ,company-ui.Name_applicant_authorized,company-ui.Name_applicant_authorized
+كلمة المرور,company-ui.password,company-ui.password
+تأكيد كلمة المرور,company-ui.confirm_password,company-ui.confirm_password
+صورة التفويض,company-ui.Authorization_image,company-ui.Authorization_image
+انشاء حساب,company-ui.Create__account,company-ui.Create__account
+تسجيل الدخول لموظفين الوزارة والقطاع غير الربحي والقطاع العام والشركات,company-ui.Login_employees_ministry_public_sector_and_companies,company-ui.Login_employees_ministry_public_sector_and_companies
+نسيت كلمة المرور؟,company-ui.Forgot_password,company-ui.Forgot_password
+إذا لم يكن لديك حساب بعد,company-ui.dont_account_yet,company-ui.dont_account_yet
+يرجى إنشاء حساب جديد,company-ui.Please_create_new_account,company-ui.Please_create_new_account
+استعادة كلمة المرور,company-ui.Restore_password,company-ui.Restore_password
+اختر طريقة الاسترجاع المفضلة وادخال اسم المستخدم والبريد الإلكتروني أو رقم الجوال,company-ui.Choose__preferred_method_retrieval,company-ui.Choose__preferred_method_retrieval
+يرجى اختيار طريقة استعادة الحساب,company-ui.Please_choose_recovery_method,company-ui.Please_choose_recovery_method
+تعيين كلمة المرور,company-ui.Set_password,company-ui.Set_password
+يمكن إعادة إرسال رمز التحقق خلال,company-ui.verification_resent_within,company-ui.verification_resent_within
+تحقق,company-ui.verification,company-ui.verification
+ثواني,company-ui.Seconds,company-ui.Seconds
+إعادة إرسال الرمز؟,company-ui.Resend_code,company-ui.Resend_code
+انشاء حساب جديد,company-ui.Create_new_account,company-ui.Create_new_account
+حساب جديد,company-ui.new_account,company-ui.new_account
+جهات غير الربحية,company-ui.Non_Profit_Entities,company-ui.Non_Profit_Entities
+الشركات,company-ui.companies,company-ui.companies
+انشاء حساب جديد للشركات على المنصة,company-ui.Create_account_companies_on_platform,company-ui.Create_account_companies_on_platform
+قم بتغيير كلمة المرور وادخال كلمة المرور الجديدة الخاصة بك,company-ui.Change_password_and_enter_new_password,company-ui.Change_password_and_enter_new_password
+كلمة المرور الجديدة,company-ui.New_Password,company-ui.New_Password
+مجموعة الصلاحيات,company-ui.set_permissions,company-ui.set_permissions
+اضافة,company-ui.add,company-ui.add
+اسم مجموعة الصلاحيات,company-ui.name_rights_group,company-ui.name_rights_group
+صلاحيات مدير النظام,company-ui.System_administrator_privileges,company-ui.System_administrator_privileges
+نوع المستخدم,company-ui.User_type,company-ui.User_type
+مراجع,company-ui.references,company-ui.references
+مشرف,company-ui.supervisor,company-ui.supervisor
+مدير النظام,company-ui.system_manager,company-ui.system_manager
+حالة مجموعة الصلاحيات,company-ui.Powerset_Status,company-ui.Powerset_Status
+اضافة مجموعة الصلاحيات,company-ui.Add_set_permissions,company-ui.Add_set_permissions
+ادارة الطلبات,company-ui.orderm_anagement,company-ui.orderm_anagement
+رفض طلب,company-ui.request_rejected,company-ui.request_rejected
+تعين طلبات,company-ui.set_requests,company-ui.set_requests
+قبول الطلب,company-ui.Request_Accept,company-ui.Request_Accept
+ادارة الفرص,company-ui.Opportunity_management,company-ui.Opportunity_management
+إدارة الجهات,company-ui.Entity_management,company-ui.Entity_management
+حفظ,company-ui.save,company-ui.save
+سحب فرصه,company-ui.pull_chance,company-ui.pull_chance
+غير مفعل,company-ui.Not_enabled,company-ui.Not_enabled
+اسم المجموعة,company-ui.group_name,company-ui.group_name
+الإجراءات,company-ui.procedures,company-ui.procedures
+عرض بيانات مجموعة صلاحيات,company-ui.View_data_set_permissions,company-ui.View_data_set_permissions
+تعديل مجموعة الصلاحيات,company-ui.Edit_set_permissions,company-ui.Edit_set_permissions
+الصلاحيات,company-ui.powers,company-ui.powers
+إدارة الصلاحيات,company-ui.Permission_management,company-ui.Permission_management
+ابحث فى 22 قائمة,company-ui.Search_in_listings,company-ui.Search_in_listings
+اسم العنصر الجديد,company-ui.New_item_name,company-ui.New_item_name
+الجهات العامة,company-ui.public_authorities,company-ui.public_authorities
+إدارة القوائم المنسدلة,company-ui.manage_dropdown_menus,company-ui.manage_dropdown_menus
+اسم القائمة,company-ui.list_name,company-ui.list_name
+التفاصيل,company-ui.details,company-ui.details
+كلمة السر غير متطابقة,company-ui.password_not_match,company-ui.password_not_match
+اسم الصفحة,company-ui.Page_name,company-ui.Page_name
+تعديل محتوى الصفحة,company-ui.Edit_page_content,company-ui.Edit_page_content
+إدارة محتوى المنصة,company-ui.Platform_content_management,company-ui.Platform_content_management
+يرجى اختيار العنصر الجديد,company-ui.select_new_element,company-ui.select_new_element
+يمكنك اختيار شكل المنوذج المناسب لمحتوى القسم الجديد ,company-ui.choose_right_example,company-ui.choose_right_example
+ادخل عنوان القسم,company-ui.Enter_section_title,company-ui.Enter_section_title
+تفاصيل القسم,company-ui.Section_details,company-ui.Section_details
+النموذج الأول,company-ui.first_model,company-ui.first_model
+النموذج الثاني,company-ui.second_model,company-ui.second_model
+النموذج الثالث,company-ui.third_model,company-ui.third_model
+النموذج الرابع,company-ui.fourth_model,company-ui.fourth_model
+النموذج الخامس,company-ui.fifth_model,company-ui.fifth_model
+ملف,company-ui.file,company-ui.file
